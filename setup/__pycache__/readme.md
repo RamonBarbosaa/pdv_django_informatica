@@ -43,4 +43,4 @@ python manage.py runserver
 Agora acesse: http://127.0.0.1:8000/produtos/
 
 👤 Autor
-Ramon Barbosa - desenvolvedor web Full Stack
+Ramon Barbosa - Desenvolvedor web Full Stack
